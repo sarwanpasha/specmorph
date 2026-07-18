@@ -146,9 +146,6 @@ On an HPC cluster, adapt the generic template and submit:
 sbatch run_example.sbatch
 ```
 
-The template intentionally contains placeholders (`<ACCOUNT>`, `<PARTITION>`) so
-that no site-specific or personal information is committed to version control.
-
 ---
 
 ## Reproducing the main results
