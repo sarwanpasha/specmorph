@@ -29,7 +29,7 @@ rather than as a mechanism claimed to outperform strong projection baselines.
   all sub-maximal, and the empirically measured forgetting respects the predicted
   ceiling. This is the regime where the theory is tightest.
 
-- **Honest comparison to GPM.** Across the regimes we can measure (permuted-MNIST,
+- **Comparison to GPM.** Across the regimes we can measure (permuted-MNIST,
   split-CIFAR, TinyImageNet, prompt-based baselines), the coherence-based method
   **matches** Gradient Projection Memory (GPM) but does not beat it. We report this
   directly; coherence's value here is as a measurement and diagnostic tool.
