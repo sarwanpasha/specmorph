@@ -164,9 +164,6 @@ that no site-specific or personal information is committed to version control.
 | Efficiency study | `src/experiments/eff_exp.py` | Memory/compute trade-off vs a growing-basis baseline |
 | Task-free / online | `src/experiments/taskfree.py`, `taskfree2.py` | Streaming regime with no task boundaries |
 
-All numbers reported in the manuscript were produced by these scripts; no external
-or hand-entered values are used.
-
 ---
 
 ## License
