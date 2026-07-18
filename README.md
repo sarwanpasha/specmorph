@@ -169,18 +169,6 @@ or hand-entered values are used.
 
 ---
 
-## Notes on scientific scope
-
-This project deliberately reports negative and null results where they occur. The
-coherence-based method **matches** but does not outperform GPM on the accuracy axes
-we can measure; the efficiency and task-free studies did not yield a clear win for
-the method either. The genuine positive contribution is the perturbation *theory*
-and its quantitatively binding behaviour in the frozen-backbone regime, together
-with coherence as a diagnostic instrument. The manuscript in `paper/` presents the
-positive scientific content; this README summarises the honest overall picture.
-
----
-
 ## License
 
 Released under the MIT License. See `LICENSE` (add before publishing).
