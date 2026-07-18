@@ -1,4 +1,4 @@
-# Spectral Morphogenesis: A Sheaf-Theoretic Perturbation Framework for Continual Learning
+# Spectral Morphogenesis
 
 This repository contains the reference implementation, experiments, and manuscript
 source for **Spectral Morphogenesis**, a framework that studies catastrophic
