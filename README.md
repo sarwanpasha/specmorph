@@ -85,10 +85,6 @@ rather than as a mechanism claimed to outperform strong projection baselines.
 |       |-- frozen_proj.py              # frozen-backbone projected update
 |       |-- frozen_bound.py             # frozen-backbone bound check
 |
-|-- paper/
-|   |-- main.tex                        # manuscript source
-|   |-- references.bib                  # bibliography
-|
 |-- results/                           # (populated when you run experiments)
 |-- run_example.sbatch                 # generic SLURM template
 |-- requirements.txt
@@ -184,12 +180,6 @@ with coherence as a diagnostic instrument. The manuscript in `paper/` presents t
 positive scientific content; this README summarises the honest overall picture.
 
 ---
-
-## Citation
-
-If you use this code, please cite the accompanying manuscript (see
-`paper/main.tex`). A BibTeX entry will be added here once the paper has a public
-identifier.
 
 ## License
 
