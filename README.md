@@ -1,7 +1,6 @@
 # Spectral Morphogenesis
 
-This repository contains the reference implementation, experiments, and manuscript
-source for **Spectral Morphogenesis**, a framework that studies catastrophic
+This repository contains the reference implementation and experiments for **Spectral Morphogenesis**, a framework that studies catastrophic
 forgetting in continual learning through the lens of *representation coherence* and
 sheaf-theoretic perturbation theory.
 
